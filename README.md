@@ -1,4 +1,4 @@
-# Angular App
+# Angular App - Olá, você!
 
 Este projeto foi criado para a aula de Programação Web 1 do IFPB. É uma aplicação simples que permite ao usuário inserir seu nome e exibi-lo na tela.
 
