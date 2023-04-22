@@ -1,0 +1,15 @@
+<div class="boxDegrade">
+  <div class="bolhas">
+    <div class="conteudo">
+      <h1>
+        Olá, {{ nome }}!
+      </h1>
+      <input
+        type="text"
+        id="nomeInput"
+        placeholder="Digite seu nome"
+        (input)="updateValue($event)"
+      />
+    </div>
+  </div>
+</div>
